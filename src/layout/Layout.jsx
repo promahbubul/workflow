@@ -15,7 +15,7 @@ function Layout() {
         {/* left */}
         <MainSidebar />
         {/* right */}
-        <div className="border w-full bg-orange-200">
+        <div className="border w-full p-2">
           <Outlet />
         </div>
       </section>
