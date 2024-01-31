@@ -10,9 +10,9 @@ const Header = () => {
         <Link to={"/"}>
           <img src={logo} alt="logo" className="w-8" />
         </Link>
-        <h3 className="text-gray-dark text-xl font-semibold">
-          CT Corporation{" "}
-          <span className="text-gray-400">Beneficial Ownership</span>{" "}
+        <h3 className="text-gray-dark text-lg font-semibold">
+          CT Corporation
+          <span className="text-gray-400">Beneficial Ownership</span>
         </h3>
       </div>
       {/* right */}
